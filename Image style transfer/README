@@ -1,1 +1,5 @@
 This program's information source is from 《白话深度学习与Tensorflow》
+
+The total loss is consisted by content-loss and style-loss.
+
+Using a vgg19-net without training it to refine basic and edge features in photos

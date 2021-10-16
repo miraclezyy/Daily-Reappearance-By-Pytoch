@@ -1,1 +1,5 @@
-1
+   This program's information source is from 《白话深度学习与Tensorflow》
+   
+   Using noise to generate fake photos by generator. Using fake photos and true dataset to train discriminator and generator. 
+   
+   Be warning that method detached() should be used by once to detach backward propagation between two nets.

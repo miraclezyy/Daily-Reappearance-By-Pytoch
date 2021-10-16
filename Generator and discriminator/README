@@ -1,3 +1,0 @@
-   This program's information source is from 《白话深度学习与Tensorflow》
-   
-   Using noise and generator to generate fake photos, using dataset and fake photos to train discriminator and generator.
